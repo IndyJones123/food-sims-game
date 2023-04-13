@@ -361,6 +361,8 @@
 "Assets/Scripts/Player/CameraMovement.cs"
 "Assets/Scripts/Player/HealthScript.cs"
 "Assets/Scripts/Player/MovementPlayer.cs"
+"Assets/Scripts/Player/ShootingCharacter.cs"
+"Assets/Scripts/Projectile/Projectile.cs"
 -langversion:9.0
 
 /deterministic

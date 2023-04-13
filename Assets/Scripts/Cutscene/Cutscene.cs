@@ -7,7 +7,7 @@ public class Cutscene : MonoBehaviour
     public GameObject thePlayer;
     public GameObject cutsceneCam;
 
-    void onTriggerEnter(Collider other)
+    void OnTriggerEnter(Collider other)
     {
         cutsceneCam.SetActive(true);
         thePlayer.SetActive(false);
